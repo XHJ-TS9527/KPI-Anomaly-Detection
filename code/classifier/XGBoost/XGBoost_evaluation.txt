@@ -1,0 +1,102 @@
+02e99bd4f6cfb33f evaluation result:
+Acc:0.93278,Recall:0.86682,AUC:0.9016125,F1-score:0.5734657
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	1126	173
+True Negative	1502	22116
+09513ae3e75778a3 evaluation result:
+Acc:0.94923,Recall:0.00000,AUC:0.4767376,F1-score:nan
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	0	111
+True Negative	1154	23650
+18fbb1d5a5dc099d evaluation result:
+Acc:0.56419,Recall:0.75000,AUC:0.6569621,F1-score:0.0049482
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	27	9
+True Negative	10850	14031
+1c35dbf57f55f5e4 evaluation result:
+Acc:0.13589,Recall:0.99446,AUC:0.5128114,F1-score:0.2001560
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	2694	15
+True Negative	21516	692
+4d2af31a-9916-3d9f-8a8e-8a268a48c095 evaluation result:
+Acc:0.00233,Recall:1.00000,AUC:0.5010437,F1-score:0.0004825
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	6	0
+True Negative	24859	52
+55f8b8b8-b659-38df-b3df-e4a5a8a54bc9 evaluation result:
+Acc:0.70018,Recall:0.13602,AUC:0.4364129,F1-score:0.0524095
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	236	1499
+True Negative	7035	19694
+6d1114ae-be04-3c46-b5aa-be1a003a57cd evaluation result:
+Acc:0.99649,Recall:0.46763,AUC:0.7333540,F1-score:0.5652174
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	65	74
+True Negative	26	28299
+7c189dd36f048a6c evaluation result:
+Acc:0.99847,Recall:0.67692,AUC:0.8380609,F1-score:0.6666667
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	44	21
+True Negative	23	28682
+8723f0fb-eaef-32e6-b372-6034c9c04b80 evaluation result:
+Acc:0.99498,Recall:0.30769,AUC:0.6529109,F1-score:0.3587444
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	40	90
+True Negative	53	28281
+8c892e5525f3e491 evaluation result:
+Acc:0.36163,Recall:0.08177,AUC:0.2365625,F1-score:0.0240085
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	227	2549
+True Negative	15907	10228
+affb01ca2b4f0b45 evaluation result:
+Acc:0.99812,Recall:0.58974,AUC:0.7944884,F1-score:0.6301370
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	46	32
+True Negative	22	28667
+ba5f3328-9f3f-3ff5-a683-84437d16d554 evaluation result:
+Acc:0.96206,Recall:0.07879,AUC:0.5391010,F1-score:0.1442155
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	91	1064
+True Negative	16	27293
+c58bfcbacb2822d1 evaluation result:
+Acc:0.99811,Recall:0.00000,AUC:0.5000000,F1-score:nan
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	0	47
+True Negative	0	24869
+cff6d3c01e6a6bfa evaluation result:
+Acc:0.90831,Recall:0.32624,AUC:0.6201541,F1-score:0.0651789
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	92	190
+True Negative	2449	26050
+da10a69f-d836-3baa-ad40-3e548ecf1fbd evaluation result:
+Acc:0.90594,Recall:0.34646,AUC:0.6528296,F1-score:0.3903537
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	607	1145
+True Negative	751	17655
+e0770391decc44ce evaluation result:
+Acc:0.33830,Recall:0.28674,AUC:0.3152812,F1-score:0.0773646
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	802	1995
+True Negative	17134	8978
+ffb82d38-5f00-37db-abc0-5d2e4e4cb6aa evaluation result:
+Acc:0.02492,Recall:0.83333,AUC:0.4290307,F1-score:0.0004114
+confussion matrix:
+class	Predict Positive	Predict Negative
+True Positive	5	1
+True Negative	24295	616
