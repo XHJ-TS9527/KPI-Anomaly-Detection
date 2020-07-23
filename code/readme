@@ -1,1 +1,2 @@
 This is the code of KPI anomaly detection with local features and multi-time-scale features. Updated on July 24, 2020.
+To run this code, a blank __init__.py may be needed.
