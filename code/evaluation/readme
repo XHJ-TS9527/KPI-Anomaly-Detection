@@ -1,0 +1,2 @@
+'ANN' is the BPNN with all features. For BPNN with only local features as input, the evaluation txt file at ANN classifier path shall be corresponding to the evaluation 
+to BPNN with only local features as input.
