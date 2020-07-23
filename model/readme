@@ -1,0 +1,3 @@
+These are the models and test results of each detector.
+Notice that LSTM and ANN fold also contain training loss with epochs.
+ANN is corresponding to BPNN model with only local features, ANN_all is corresponding to BPNN model with all features. When testing, please carefully select the corresponding fold.
