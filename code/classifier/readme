@@ -1,0 +1,2 @@
+To run the codes, you may need a blank __init__.py file.
+When you try to adjust the feature type, please change variable self.feature_type.
