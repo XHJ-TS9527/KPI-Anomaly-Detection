@@ -1,0 +1,12 @@
+Notifications:
+1. The codes of EWT,BLS and Hurst Exponent calculation are downloaded from the Intenet, and other codes are written on my own. (EWT, Hurst Exponent: CSDN, BLS: 码农集市)
+2. Environment: MATLAB ≥ R2016a, Python ≥ 3.7, latest Pytorch
+2. If Python raises exception when running code, please try to add blank __init__.py or delete the file at certain location, following the path reminded by Python.
+3. Running sequence:
+3.1 Preprocessing: KPI_split.py -> preprocessing.py -> split_training_test.py. If you run these codes directly, there would be a lot of KPIs in KPI_names.txt. Please replace this file with the file downloaded from GitHub before running split_training_test.py so that you can get the training set and testing set of the 17 KPIs shown in the paper.
+3.2 Feature extraction: calc_freq.m -> STL_decomposition.py -> feature_extraction.m
+3.3 Classifier: Run the code of different classifiers respectively, the main function is written in the .py file whose name is the same to the classifier. To change the feature type, please change the self.feature_type variable in each file.
+3.4 Evaluation: For LSTM evaluation, please run LSTM_eval.py in ./classifier/LSTM. For whole evaluation, please run ./evaluation/merge_evaluation.py. Notice that LSTM_eval.py should be run before executing merge_evaluation.py. This step is unecessary if 'LSTM' not in the tuple of variable model in merge_evaluation.py.
+3.5 Report_drawing: These codes can be run respectively to get the figures in the paper.
+4. Report:
+I offered report paper written in MS Word and LaTeX. The code of LaTeX edition is in ../report-latex.
